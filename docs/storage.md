@@ -15,7 +15,7 @@ What data goes in SecureStore vs AsyncStorage.
 | Data | Reason |
 |------|--------|
 | Public keys (G...) | Public by design |
-| Contacts | Address book |
+| Contacts | Address book (see [contacts.md](./contacts.md)) |
 | Transaction hashes | On-chain data |
 | UI preferences | Non-sensitive |
 

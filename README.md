@@ -90,6 +90,10 @@ See [CHANGELOG.md](./CHANGELOG.md) for a full list of notable changes across rel
 
 See the full [Security Guide](docs/security.md) for details on secret key handling, device storage, backups, and safe development practices.
 
+## Contacts
+
+See the [Contacts Guide](docs/contacts.md) for how contacts are stored and backed up.
+
 ## License
 
 MIT
